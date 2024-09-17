@@ -7,3 +7,5 @@ if cnt==2:
     print("{} is a prime number".format(n))
 else:
     print("{} is not a prime number".format(n))
+
+    //Helloo 
